@@ -13,5 +13,9 @@ features <- read.table("", header = TRUE, colClasses = "character")
 > this is a cite text example
 
 *this is a example test*
+
+
 **this is another example text**
+
+
 ***and another example text***
