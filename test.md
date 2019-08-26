@@ -3,8 +3,10 @@
 ## Other line test
 
 ### Another
-~~~features <- read.table("", header = TRUE, colClasses = "character")~~~
-___
+~~~ 
+features <- read.table("", header = TRUE, colClasses = "character") 
+~~~
+
 - u_list
 2. o_list
 
